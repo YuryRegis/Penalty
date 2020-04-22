@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Penalty
+StartupNotify=true
+Exec=diretorio/do/.../executavel
+Icon=diretorio/do/arquivo/.../assets/icon.png
