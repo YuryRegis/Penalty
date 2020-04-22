@@ -20,7 +20,7 @@ Edite o arquivo `Penalty.desktop`, editando as linhas 5 e 6 para o diretório on
 ```
 
 ## Fonte
-Programação básica em C: https://bitismyth.wordpress.com/2017/04/22/programacao-grafica-em-c-gnome-tool-kit-gtk/
+Programação gráfica em C: https://bitismyth.wordpress.com/2017/04/22/programacao-grafica-em-c-gnome-tool-kit-gtk/
 
 Documentação GTK2+: https://developer.gnome.org/gtk2/2.24/ 
 
