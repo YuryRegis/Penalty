@@ -1,4 +1,4 @@
-# Penalty - Simulador de Penaltes escrito em C com interface GTK+
+# AEDII - Penalty - Simulador de Penaltes em C com interface GTK+
 Aplicação em desenvolvimento...
 
 ## Compilar
@@ -9,7 +9,7 @@ gcc -O3 -s -o executavel jogo.c  `pkg-config --cflags --libs gtk+-2.0`
 
 ## Icone Executavel / Lançador Desktop
 
-Edite o arquivo `Penalty.desktop`, editando as linhas 5 e 6 para o diretório onde encontra o seu arquivo `icon.png` e o `executavel`. Após editado, mova o arquivo `Penalty.desktop` para o diretório de aplicativos da sua distribuição `/usr/share/applications/`.
+Edite o arquivo `Penalty.desktop`, alterando as linhas 5 e 6 para o diretório onde encontra o seu arquivo `icon.png` e o `executavel`. Após editado, mova o arquivo `Penalty.desktop` para o diretório de aplicativos da sua distribuição `/usr/share/applications/`.
 ```
 1. [Desktop Entry]
 2. Type=Application
